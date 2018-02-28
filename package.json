@@ -24,7 +24,7 @@
     "redux",
     "axreact"
   ],
-  "author": "xiaoyann",
+  "author": "aversion",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^6.3.7",
