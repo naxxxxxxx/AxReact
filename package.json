@@ -4,7 +4,6 @@
   "description": "使用 webpact + react + redux + es6 的组件化前端样板项目。",
   "directories": {
     "doc": "docs",
-    "test": "tests"
   },
   "scripts": {
     "lint": "eslint src",
